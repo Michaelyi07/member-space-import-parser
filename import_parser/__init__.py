@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""import_parser —— 会员空间平台 · 历史数据清洗与导入（S2-IMP-002）。
+"""import_parser —— Excel/CSV source-file parsing & ingestion service (batch import pipeline).
 
 导入源文件落盘与解析服务：.xlsx / .xls / .csv → 结构化行。
 设计原则：

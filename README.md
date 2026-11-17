@@ -1,4 +1,4 @@
-# import_parser —— 会员空间平台 · 导入源文件落盘与解析服务（S2-IMP-002）
+# import_parser —— Excel/CSV source-file parsing & ingestion service
 
 Python 3.11+ / FastAPI / SQLAlchemy 2 / PostgreSQL 16（桩交付，见「对接点」）。
 只用虚构测试数据；交付物不含客户名称；无任何向境外发送数据的第三方 SDK。
